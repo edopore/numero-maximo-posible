@@ -9,5 +9,5 @@ Punto 1 Prueba técnica realizada para Quind
  El codigo se compone de una función que ordena los números de mayor a menor por medio del algoritmo de metodo burbuja para el ordenamiento y una función que concatena los numeros existentes dentro del arreglo.
  
 ## Requisitos:
- - NodeJs
+ - NodeJs V16.15.1
  
