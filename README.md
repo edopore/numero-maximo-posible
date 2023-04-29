@@ -10,6 +10,6 @@ Punto 1 Prueba técnica realizada para Quind
  
  Esta versión de código tiene un par de ejemplos que demuestran el funcionamiento del programa.
  
- ##Requisitos:
+##Requisitos:
  - NodeJs
  
