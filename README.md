@@ -2,7 +2,7 @@
 
 Punto 1 Prueba técnica realizada para Quind
  * Ejercicio realizado por: Eduardo Jose Maya Rodriguez
- * Lenguaje empleado: JavaScript con nodeJs
+ * Lenguaje empleado: JavaScript
  
  Programa que tiene como entrada un arreglo de numeros enteros no negativos, los cuales deben ser ordenados para devolver el numero entero mayor posible encontrado.
  
