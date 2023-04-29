@@ -42,6 +42,3 @@ function getMaxNumFromArray(numberArray){
     }
     return parseInt(number);
 }
-
-console.log(getMaxNumFromArray([1,15,5,3]));
-console.log(getMaxNumFromArray([50,2,1,9]));
